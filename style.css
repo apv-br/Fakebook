@@ -1,0 +1,88 @@
+
+
+.Title {
+    height: 100px;
+    background-color: #cce6ff;
+    font-stile: italic;
+    font-size:40px;
+    text-align: center;
+    /*
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-sizing: border-box;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    */
+}
+
+/* Search field style */
+.Search {
+    font-size:30px;
+    height: 20px;
+}
+
+#search_name {
+    Width: 75%;
+    Height: 30px;
+}
+
+/* Attributes from the searched person */
+
+.Search_Result {
+    margin-top: 25px;
+    padding: 10px;
+    border-style: Solid;
+    border-width: 10px;
+    border-color: #cce6ff;
+    /* border: 2px solid blue; */
+    display: flex;
+}
+
+#my_picture
+{
+  /* border: 6px black dotted; */
+  /* padding: 10px; */
+  width:500px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.form_attributes
+{
+    #font-size: 50px;
+}
+
+#add_a_friend {
+    margin-top: 25px;
+    color:blue;
+    font-size: 20px;
+}
+
+
+
+/*
+#body {
+#color:red;
+#}
+
+#add_a_friend {
+color:blue
+}
+
+#city {
+color:blue
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
