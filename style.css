@@ -2,7 +2,7 @@
 
 .Title {
     height: 100px;
-    background-color: #cce6ff;
+    background-color: #10bae0;
     font-stile: italic;
     font-size:40px;
     text-align: center;
@@ -33,7 +33,7 @@
     padding: 10px;
     border-style: Solid;
     border-width: 10px;
-    border-color: #cce6ff;
+    border-color: #10bae0;
     /* border: 2px solid blue; */
     display: flex;
 }
